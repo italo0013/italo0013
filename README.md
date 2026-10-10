@@ -53,48 +53,14 @@ Olá! Sou **Italo Vinicius da Silva**, da área de **Análise e Desenvolvimento 
   />
 </p>
 
+## Sequência de contribuições
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=italo0013&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&locale=pt_BR"
     alt="Sequência de contribuições de Italo"
   />
 </p>
-
-## Gráfico de atividade
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=italo0013&theme=tokyo-night&hide_border=true&area=true"
-    alt="Gráfico de atividade no GitHub de Italo"
-    width="100%"
-  />
-</p>
-
-## Conquistas
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=italo0013&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
-    alt="Troféus do GitHub de Italo"
-    width="100%"
-  />
-</p>
-
-## Minhas contribuições
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/italo0013/italo0013/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/italo0013/italo0013/output/github-snake.svg" />
-    <img
-      alt="Animação da cobrinha percorrendo o gráfico de contribuições"
-      src="https://raw.githubusercontent.com/italo0013/italo0013/output/github-snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
-
-<!-- Para exibir a cobrinha, configure um workflow do GitHub Actions para gerar github-snake.svg e github-snake-dark.svg no branch output do repositório italo0013/italo0013. -->
 
 ## Redes sociais
 
