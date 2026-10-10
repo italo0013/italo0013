@@ -17,14 +17,14 @@
 
 ## Sobre mim
 
-Olá! Sou **Italo Vinicius da Silva**, da área de **Análise e Desenvolvimento de Software**. Tenho interesse em tecnologia e trabalho com **Python** e **SQL**.
+Olá! Sou **Italo Vinicius da Silva**, da área de **Análise e Desenvolvimento de Software**. Trabalho com **Python** e **SQL**.
 
 ## Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" />
   &nbsp;
-  <img src="https://img.shields.io/badge/SQL- consultas%20e%20dados-2563EB?style=for-the-badge&logoColor=white" alt="SQL" />
+  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" height="48" />
 </p>
 
 ## Projetos
@@ -38,16 +38,16 @@ Olá! Sou **Italo Vinicius da Silva**, da área de **Análise e Desenvolvimento 
   </tr>
 </table>
 
-## GitHub Stats
+## Estatísticas do GitHub
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=italo0013&show_icons=true&hide_border=true&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8"
+    src="https://github-readme-stats.vercel.app/api?username=italo0013&show_icons=true&hide_border=true&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8&locale=pt-br"
     alt="Estatísticas do GitHub de Italo"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo0013&layout=compact&hide_border=true&theme=tokyonight&title_color=38BDF8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo0013&layout=compact&hide_border=true&theme=tokyonight&title_color=38BDF8&locale=pt-br"
     alt="Linguagens mais usadas por Italo"
     height="165"
   />
@@ -55,12 +55,12 @@ Olá! Sou **Italo Vinicius da Silva**, da área de **Análise e Desenvolvimento 
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=italo0013&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8"
+    src="https://streak-stats.demolab.com?user=italo0013&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&locale=pt_BR"
     alt="Sequência de contribuições de Italo"
   />
 </p>
 
-## Atividade
+## Gráfico de atividade
 
 <p align="center">
   <img
@@ -80,21 +80,21 @@ Olá! Sou **Italo Vinicius da Silva**, da área de **Análise e Desenvolvimento 
   />
 </p>
 
-## Minha contribuição
+## Minhas contribuições
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/italo0013/italo0013/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/italo0013/italo0013/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/italo0013/italo0013/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/italo0013/italo0013/output/github-snake.svg" />
     <img
       alt="Animação da cobrinha percorrendo o gráfico de contribuições"
-      src="https://raw.githubusercontent.com/italo0013/italo0013/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/italo0013/italo0013/output/github-snake.svg"
       width="100%"
     />
   </picture>
 </p>
 
-<!-- A cobrinha aparece depois que um workflow do GitHub Actions gerar os SVGs no branch output do repositório italo0013/italo0013. -->
+<!-- Para exibir a cobrinha, configure um workflow do GitHub Actions para gerar github-snake.svg e github-snake-dark.svg no branch output do repositório italo0013/italo0013. -->
 
 ## Redes sociais
 
